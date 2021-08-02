@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oracle Cloud VMware Solutions on Multi-Cloud Reference Architectures</title>
+    <link>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/</link>
+    <description>Recent content in Oracle Cloud VMware Solutions on Multi-Cloud Reference Architectures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/introduction-oracle-cloud-vmware-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/introduction-oracle-cloud-vmware-solution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

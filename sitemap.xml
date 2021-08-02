@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://multicloudarchitecture.github.io/getting-started/</loc>
-    <lastmod>2018-12-08T15:26:15+00:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/azure-vmware-solution/</loc>
+    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/getting-started/installation/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/</loc>
+    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/getting-started/configuration/</loc>
-    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/azure-vmware-solution/introduction-azure-vmware-solution/</loc>
+    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/getting-started/screenshot/</loc>
-    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/introduction-google-cloud-vmware-solution/</loc>
+    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
   </url><url>
     <loc>https://multicloudarchitecture.github.io/vmware-cloud-on-aws/vmware-horizon/introduction-horizon-on-vmc-1/</loc>
     <lastmod>2021-07-25T09:56:49-05:00</lastmod>
@@ -26,7 +26,11 @@
     <loc>https://multicloudarchitecture.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/introduction-oracle-cloud-vmware-solution/</loc>
+  </url><url>
     <loc>https://multicloudarchitecture.github.io/categories/</loc>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/</loc>
   </url><url>
     <loc>https://multicloudarchitecture.github.io/tags/</loc>
   </url>

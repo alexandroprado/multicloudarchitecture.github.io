@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Cloud VMware Engines on Multi-Cloud Reference Architectures</title>
+    <link>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/</link>
+    <description>Recent content in Google Cloud VMware Engines on Multi-Cloud Reference Architectures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 09:56:49 -0500</lastBuildDate><atom:link href="https://multicloudarchitecture.github.io/google-cloud-vmware-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction Google Cloud VMware Solution</title>
+      <link>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/introduction-google-cloud-vmware-solution/</link>
+      <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/introduction-google-cloud-vmware-solution/</guid>
+      <description>A test post about Google Cloud VMware Solution</description>
+    </item>
+    
+  </channel>
+</rss>
