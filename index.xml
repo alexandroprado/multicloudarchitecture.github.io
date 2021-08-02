@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home title on Multi-Cloud Reference Architectures</title>
+    <link>https://docs.mcsa.cloud/</link>
+    <description>Recent content in Home title on Multi-Cloud Reference Architectures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://docs.mcsa.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>https://docs.mcsa.cloud/getting-started/installation/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://docs.mcsa.cloud/getting-started/installation/</guid>
+      <description>Install Hugo theme on your project If you have git installed, you can include hugo-theme-techdoc repository into your core repository as submodule using git submodule within your project directory.
+cd your_project git submodule add https://github.com/thingsym/hugo-theme-techdoc.git themes/hugo-theme-techdoc For more information read the Hugo documentation.
+Or download Hugo theme on your project If you have git installed, you can do the following at the command-line-interface within your project directory.
+cd your_project/themes git clone https://github.</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://docs.mcsa.cloud/getting-started/configuration/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://docs.mcsa.cloud/getting-started/configuration/</guid>
+      <description>You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+For an example of config.toml, see config.toml in exampleSite.
+Params # Source Code repository section description = &amp;quot;put your description&amp;quot; github_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; version = &amp;quot;0.9.7&amp;quot; # Documentation repository section # documentation repository (set edit link to documentation repository) github_doc_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; # Analytic section google_analytics_id = &amp;quot;&amp;quot; # Your Google Analytics tracking id tag_manager_container_id = &amp;quot;&amp;quot; # Your Google Tag Manager container id google_site_verification = &amp;quot;&amp;quot; # Your Google Site Verification for Search Console # Open Graph and Twitter Cards settings section # Open Graph settings for each page are set on the front matter.</description>
+    </item>
+    
+    <item>
+      <title>Screenshot</title>
+      <link>https://docs.mcsa.cloud/getting-started/screenshot/</link>
+      <pubDate>Sat, 26 Oct 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://docs.mcsa.cloud/getting-started/screenshot/</guid>
+      <description>Theme color Menu style Open Menu Slide Menu Edit link </description>
+    </item>
+    
+    <item>
+      <title>Introduction Horizon on VMware Cloud on AWS</title>
+      <link>https://docs.mcsa.cloud/vmware-cloud-on-aws/vmware-horizon/introduction-horizon-on-vmc-1/</link>
+      <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>
+      
+      <guid>https://docs.mcsa.cloud/vmware-cloud-on-aws/vmware-horizon/introduction-horizon-on-vmc-1/</guid>
+      <description>A test post about Horizon on VMware Cloud on AWS</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>https://docs.mcsa.cloud/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.mcsa.cloud/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
