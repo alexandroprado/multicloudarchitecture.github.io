@@ -8,6 +8,87 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://multicloudarchitecture.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Deploy New Tenant</title>
+      <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/day-2-operations/deploying-new-tenant/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/day-2-operations/deploying-new-tenant/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Into To Horizon DaaS</title>
+      <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/intro-to-horizon-daas/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/intro-to-horizon-daas/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Intro to OCVS</title>
+      <link>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/intro-to-ocvs/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/intro-to-ocvs/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Create New Image</title>
+      <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/day-2-operations/create-new-image/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/day-2-operations/create-new-image/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Horizon DaaS Infrastructure Design</title>
+      <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/horzion-daas-infrastructure-design/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/horzion-daas-infrastructure-design/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Horizon DaaS Networking</title>
+      <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/horizon-daas-networking/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/horizon-daas-networking/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Integrating with OCI Native Services</title>
+      <link>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/integrating-with-oci-native-services/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/integrating-with-oci-native-services/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Deploying OCVS</title>
+      <link>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/deploying-ocvs/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/deploying-ocvs/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Design Considerations</title>
+      <link>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/design-considerations/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/design-considerations/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
       <title>Introduction Horizon on VMware Cloud on AWS</title>
       <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/introduction-horizon-on-vmc-1/</link>
       <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>

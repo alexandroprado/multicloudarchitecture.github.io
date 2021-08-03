@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/day-2-operations/deploying-new-tenant/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-8/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/intro-to-horizon-daas/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/intro-to-ocvs/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
     <loc>https://multicloudarchitecture.github.io/modern-apps/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
@@ -17,7 +29,19 @@
     <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/azure-vmware-solution/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/day-2-operations/create-new-image/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/horzion-daas-infrastructure-design/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
     <loc>https://multicloudarchitecture.github.io/multi-cloud/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/ocvs-networking/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
     <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/</loc>
@@ -26,7 +50,16 @@
     <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/google-cloud-vmware-engine/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/horizon-daas-networking/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/integrating-with-oci-native-services/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
     <loc>https://multicloudarchitecture.github.io/networking/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/deploying-ocvs/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
     <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/</loc>
@@ -36,6 +69,12 @@
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
     <loc>https://multicloudarchitecture.github.io/anywhere-workspace/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/horizon-daas/day-2-operations/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/design-considerations/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
     <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/introduction-horizon-on-vmc-1/</loc>
