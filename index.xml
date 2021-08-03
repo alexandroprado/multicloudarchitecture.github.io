@@ -8,39 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://multicloudarchitecture.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction Azure VMware Solution</title>
-      <link>https://multicloudarchitecture.github.io/azure-vmware-solution/introduction-azure-vmware-solution/</link>
-      <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>
-      
-      <guid>https://multicloudarchitecture.github.io/azure-vmware-solution/introduction-azure-vmware-solution/</guid>
-      <description>A test post about Azure VMware Solution</description>
-    </item>
-    
-    <item>
-      <title>Introduction Google Cloud VMware Solution</title>
-      <link>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/introduction-google-cloud-vmware-solution/</link>
-      <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>
-      
-      <guid>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/introduction-google-cloud-vmware-solution/</guid>
-      <description>A test post about Google Cloud VMware Solution</description>
-    </item>
-    
-    <item>
       <title>Introduction Horizon on VMware Cloud on AWS</title>
-      <link>https://multicloudarchitecture.github.io/vmware-cloud-on-aws/vmware-horizon/introduction-horizon-on-vmc-1/</link>
+      <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/introduction-horizon-on-vmc-1/</link>
       <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>
       
-      <guid>https://multicloudarchitecture.github.io/vmware-cloud-on-aws/vmware-horizon/introduction-horizon-on-vmc-1/</guid>
+      <guid>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/introduction-horizon-on-vmc-1/</guid>
       <description>A test post about Horizon on VMware Cloud on AWS</description>
-    </item>
-    
-    <item>
-      <title>Introduction Oracle Cloud VMware Solution</title>
-      <link>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/introduction-oracle-cloud-vmware-solution/</link>
-      <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>
-      
-      <guid>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/introduction-oracle-cloud-vmware-solution/</guid>
-      <description>A test post about Oracle Cloud VMware Solution</description>
     </item>
     
     <item>

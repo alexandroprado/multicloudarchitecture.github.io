@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VMware Horizon on Multi-Cloud Reference Architectures</title>
+    <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/</link>
+    <description>Recent content in VMware Horizon on Multi-Cloud Reference Architectures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction Horizon on VMware Cloud on AWS</title>
+      <link>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/introduction-horizon-on-vmc-1/</link>
+      <pubDate>Sun, 25 Jul 2021 09:56:49 -0500</pubDate>
+      
+      <guid>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/introduction-horizon-on-vmc-1/</guid>
+      <description>A test post about Horizon on VMware Cloud on AWS</description>
+    </item>
+    
+  </channel>
+</rss>

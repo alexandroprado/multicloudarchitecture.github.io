@@ -2,28 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://multicloudarchitecture.github.io/azure-vmware-solution/</loc>
-    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/modern-apps/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/</loc>
-    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/multi-tenant-iaas/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/azure-vmware-solution/introduction-azure-vmware-solution/</loc>
-    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/vmware-cloud-on-aws/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/google-cloud-vmware-engine/introduction-google-cloud-vmware-solution/</loc>
-    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/vmware-cloud-on-aws/vmware-horizon/introduction-horizon-on-vmc-1/</loc>
-    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/azure-vmware-solution/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/introduction-oracle-cloud-vmware-solution/</loc>
-    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/oracle-cloud-vmware-solution/</loc>
-    <lastmod>2021-07-25T09:56:49-05:00</lastmod>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://multicloudarchitecture.github.io/vmware-cloud-on-aws/</loc>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/google-cloud-vmware-engine/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/networking/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/multi-cloud/single-tenant-iaas/oracle-cloud-vmware-solution/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/security/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://multicloudarchitecture.github.io/anywhere-workspace/vmware-horizon/introduction-horizon-on-vmc-1/</loc>
     <lastmod>2021-07-25T09:56:49-05:00</lastmod>
   </url><url>
     <loc>https://multicloudarchitecture.github.io/</loc>
